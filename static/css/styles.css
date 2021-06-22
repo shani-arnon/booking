@@ -1,0 +1,31 @@
+.my-reservations-dateter {
+    height: 5em;
+    background-color: #163b65;
+    margin-top: 1.5em;
+    padding: 1em;
+    color: white;
+    font-size: 80%;
+  }
+  .room-img {
+    max-width: 50%;
+  }
+  .red-text {
+    color: hotpink;
+  }
+  .notie-container {
+    box-shadow: none;
+  }
+  .datepicker.active {
+    z-index: 10000;
+  }
+  .my-footer {
+    height: 5em;
+    background-color: #163b65;
+    margin-top: 1.5em;
+    padding: 1em;
+    color: white;
+    font-size: 80%;
+  }
+  .room-img {
+    max-width: 50%;
+  }
